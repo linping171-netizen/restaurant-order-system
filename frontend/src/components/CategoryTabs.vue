@@ -1,0 +1,1 @@
+<template><div class="tabs"><button v-for="c in categories" :key="c" :class="{selected:modelValue===c}" @click="$emit('update:modelValue',c)">{{c}}</button></div></template><script setup lang="ts">defineProps<{modelValue:string}>();defineEmits(['update:modelValue']);const categories=['推荐','主食','饮料','甜点'];</script>

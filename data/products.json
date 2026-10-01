@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "拉面",
+    "description": "慢熬豚骨汤底，搭配弹牙细面。",
+    "price": 980,
+    "category": "主食",
+    "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=900&q=85",
+    "status": "active",
+    "sortOrder": 1,
+    "storeId": "store-1"
+  },
+  {
+    "id": 2,
+    "name": "炒饭",
+    "description": "锅气十足，配料丰富的日式炒饭。",
+    "price": 880,
+    "category": "主食",
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=900&q=85",
+    "status": "active",
+    "sortOrder": 2,
+    "storeId": "store-1"
+  },
+  {
+    "id": 3,
+    "name": "饺子",
+    "description": "外皮酥脆，猪肉蔬菜馅多汁鲜香。",
+    "price": 600,
+    "category": "推荐",
+    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=900&q=85",
+    "status": "active",
+    "sortOrder": 3,
+    "storeId": "store-1"
+  },
+  {
+    "id": 4,
+    "name": "可乐",
+    "description": "冰爽气泡，畅快解腻。",
+    "price": 300,
+    "category": "饮料",
+    "image": "https://images.unsplash.com/photo-1554866585-cd94860890b7?auto=format&fit=crop&w=900&q=85",
+    "status": "active",
+    "sortOrder": 4,
+    "storeId": "store-1"
+  },
+  {
+    "id": 5,
+    "name": "乌龙茶",
+    "description": "清香回甘的无糖乌龙茶。",
+    "price": 300,
+    "category": "饮料",
+    "image": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?auto=format&fit=crop&w=900&q=85",
+    "status": "active",
+    "sortOrder": 5,
+    "storeId": "store-1"
+  },
+  {
+    "id": 6,
+    "name": "布丁",
+    "description": "柔滑浓郁的焦糖布丁。",
+    "price": 450,
+    "category": "甜点",
+    "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&w=900&q=85",
+    "status": "active",
+    "sortOrder": 6,
+    "storeId": "store-1"
+  },
+  {
+    "id": 7,
+    "name": "俊俊",
+    "description": "不可爱",
+    "price": 99,
+    "category": "主食",
+    "image": "/uploads/1790855785856-IMG_0001.JPG",
+    "status": "active",
+    "sortOrder": 1,
+    "storeId": "store-1"
+  }
+]

@@ -1,0 +1,1 @@
+import { reactive,computed } from 'vue'; import type { Product } from './api'; export const cart=reactive<Record<number,number>>({}); export const count=computed(()=>Object.values(cart).reduce((a,b)=>a+b,0)); export function setQty(p:Product,n:number){if(n<=0)delete cart[p.id];else cart[p.id]=n}

@@ -1,0 +1,17 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+*.log
+*.pem
+*.key
+backend/uploads/*
+!backend/uploads/.gitkeep
+.npm-cache/
+secrets/
+data/orders.json
